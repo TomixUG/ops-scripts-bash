@@ -1,0 +1,128 @@
+Aktualni datum a cas: 
+Sun Dec  3 01:21:52 AM CET 2023
+
+Aktualne prihlaseny uzivatel: 
+tomso
+
+Systemove informace:
+- kernel info: 
+Linux TMX-Linux 6.6.1-arch1-1 #1 SMP PREEMPT_DYNAMIC Wed, 08 Nov 2023 16:05:38 +0000 x86_64 GNU/Linux
+
+- info o memory: 
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi        12Gi       1.0Gi       262Mi       2.3Gi       2.7Gi
+Swap:           15Gi       3.9Gi        12Gi
+
+- vas procespr: 
+Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+
+Seznam vyhledavacich cest:
+/usr/lib/jvm/java-20-openjdk/bin:/home/tomso/.local/share/nvim/mason/bin:/usr/lib/jvm/java-20-openjdk/bin:/opt/gcc-arm-none-eabi-10-2020-q4-major/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/platform-tools:/opt/android-sdk/tools:/opt/android-sdk/tools/bin:/home/tomso/.dotnet/tools:/opt/flutter/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin:/opt/android-sdk/platform-tools/:/opt/android-sdk/tools/bin/:/emulator:/opt/android-sdk/tools/:/home/tomso/.pub-cache/bin:/opt/android-sdk/platform-tools/:/opt/android-sdk/tools/bin/:/emulator:/opt/android-sdk/tools/:/home/tomso/.pub-cache/bin
+
+Seznam a hodnoty systemovych promennych:
+SHELL=/usr/bin/zsh
+WINDOWID=115343362
+COLORTERM=truecolor
+XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+NVIM=/run/user/1000/nvim.2123712.0
+_P9K_TTY=/dev/pts/6
+JAVA_HOME=/usr/lib/jvm/java-20-openjdk
+DOTNET_ROOT=/usr/share/dotnet
+P9K_TTY=old
+NVIM_LOG_FILE=/home/tomso/.local/state/nvim/log
+DESKTOP_SESSION=xmonad
+FLUTTER_HOME=/opt/flutter
+EDITOR=nvim
+MASON=/home/tomso/.local/share/nvim/mason
+GTK_MODULES=canberra-gtk-module
+XDG_SEAT=seat0
+PWD=/home/tomso/School/Documents/OPS/bash_scripts/1
+LOGNAME=tomso
+XDG_SESSION_DESKTOP=xmonad
+XDG_SESSION_TYPE=x11
+MANPATH=/usr/share/zsh-antidote/man:
+XAUTHORITY=/home/tomso/.Xauthority
+XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/tomso
+MOTD_SHOWN=pam
+HOME=/home/tomso
+AUTOJUMP_ERROR_PATH=/home/tomso/.local/share/autojump/errors.log
+LANG=en_US.UTF-8
+VIMRUNTIME=/usr/share/nvim/runtime
+XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+DOTNET_BUNDLE_EXTRACT_BASE_DIR=/home/tomso/.cache/dotnet_bundle_extract
+ALACRITTY_SOCKET=/run/user/1000/Alacritty-:0-2122435.sock
+XDG_SESSION_CLASS=user
+ANDROID_HOME=/opt/android-sdk
+TERM=xterm-256color
+USER=tomso
+AUTOJUMP_SOURCED=1
+DISPLAY=:0
+SHLVL=3
+CHROME_EXECUTABLE=/usr/bin/brave
+ANDROID_SDK_ROOT=/opt/android-sdk
+_P9K_SSH_TTY=/dev/pts/6
+XDG_VTNR=7
+XDG_SESSION_ID=1
+PT8HOME=/opt/packettracer/
+XDG_RUNTIME_DIR=/run/user/1000
+MYVIMRC=/home/tomso/.dothub/nvim/mine/init.lua
+DEBUGINFOD_URLS=https://debuginfod.archlinux.org 
+P9K_SSH=0
+QT_AUTO_SCREEN_SCALE_FACTOR=1
+GTK3_MODULES=xapp-gtk3-module
+PATH=/usr/lib/jvm/java-20-openjdk/bin:/home/tomso/.local/share/nvim/mason/bin:/usr/lib/jvm/java-20-openjdk/bin:/opt/gcc-arm-none-eabi-10-2020-q4-major/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/platform-tools:/opt/android-sdk/tools:/opt/android-sdk/tools/bin:/home/tomso/.dotnet/tools:/opt/flutter/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin:/opt/android-sdk/platform-tools/:/opt/android-sdk/tools/bin/:/emulator:/opt/android-sdk/tools/:/home/tomso/.pub-cache/bin:/opt/android-sdk/platform-tools/:/opt/android-sdk/tools/bin/:/emulator:/opt/android-sdk/tools/:/home/tomso/.pub-cache/bin
+ALACRITTY_LOG=/tmp/Alacritty-2122435.log
+GDMSESSION=xmonad
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+MAIL=/var/spool/mail/tomso
+ALACRITTY_WINDOW_ID=115343362
+OLDPWD=/home/tomso/School/Documents/OPS/bash_scripts/1
+_=/usr/bin/printenv
+[?1h=[?25l[H[2J(B[mtop - 01:21:52 up 1 day,  8:29,  1 user,  load average: 2.16, 2.66, 2.71(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m 431 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m 421 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   9 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m 37.3 (B[m[39;49mus,(B[m[39;49m[1m  6.9 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 52.9 (B[m[39;49mid,(B[m[39;49m[1m  1.0 (B[m[39;49mwa,(B[m[39;49m[1m  1.0 (B[m[39;49mhi,(B[m[39;49m[1m  1.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m (B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m  15862.4 (B[m[39;49mtotal,(B[m[39;49m[1m   1005.3 (B[m[39;49mfree,(B[m[39;49m[1m  13099.7 (B[m[39;49mused,(B[m[39;49m[1m   2393.6 (B[m[39;49mbuff/cache(B[m[39;49m(B[m (B[m[39;49m(B[m    (B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m  16384.0 (B[m[39;49mtotal,(B[m[39;49m[1m  12393.0 (B[m[39;49mfree,(B[m[39;49m[1m   3991.0 (B[m[39;49mused.(B[m[39;49m[1m   2762.7 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+[7m    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND  (B[m[39;49m[K
+(B[m 784928 tomso     20   0 1132.4g 519880 123284 S  72.7   3.2 186:27.37 Discord  (B[m[39;49m[K
+(B[m[1m2141121 tomso     20   0   13596   6516   4340 R  18.2   0.0   0:00.03 top      (B[m[39;49m[K
+(B[m    611 root      20   0   25.2g 126744  80588 S   9.1   0.8  33:44.66 Xorg     (B[m[39;49m[K
+(B[m    659 tomso      9 -11   56884  33560   7900 S   9.1   0.2  18:58.28 pipewir+ (B[m[39;49m[K
+(B[m 784870 tomso     20   0   32.5g 193684 116392 S   9.1   1.2  31:48.70 Discord  (B[m[39;49m[K
+(B[m1101646 tomso     20   0 2701576 276296  90192 S   9.1   1.7   1:47.61 Isolate+ (B[m[39;49m[K
+(B[m2004448 tomso     20   0 2608088 205284  91288 S   9.1   1.3   0:09.03 Isolate+ (B[m[39;49m[K
+(B[m      1 root      20   0   22164   9412   6752 S   0.0   0.1   0:05.84 systemd  (B[m[39;49m[K
+(B[m      2 root      20   0       0      0      0 S   0.0   0.0   0:00.08 kthreadd (B[m[39;49m[K
+(B[m      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+ (B[m[39;49m[K
+(B[m      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+ (B[m[39;49m[K
+(B[m      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+ (B[m[39;49m[K
+(B[m      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+ (B[m[39;49m[K
+(B[m      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+ (B[m[39;49m[K
+(B[m      9 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+ (B[m[39;49m[K
+(B[m     12 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+ (B[m[39;49m[K
+(B[m     14 root      20   0       0      0      0 I   0.0   0.0   0:00.00 rcu_tas+ (B[m[39;49m[K[H(B[mtop - 01:21:55 up 1 day,  8:29,  1 user,  load average: 2.07, 2.64, 2.70(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m 429 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m 419 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   9 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m 19.5 (B[m[39;49mus,(B[m[39;49m[1m  5.8 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 73.9 (B[m[39;49mid,(B[m[39;49m[1m  0.1 (B[m[39;49mwa,(B[m[39;49m[1m  0.4 (B[m[39;49mhi,(B[m[39;49m[1m  0.3 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m (B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m  15862.4 (B[m[39;49mtotal,(B[m[39;49m[1m    988.4 (B[m[39;49mfree,(B[m[39;49m[1m  13116.4 (B[m[39;49mused,(B[m[39;49m[1m   2393.7 (B[m[39;49mbuff/cache(B[m[39;49m(B[m (B[m[39;49m(B[m    (B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m  16384.0 (B[m[39;49mtotal,(B[m[39;49m[1m  12393.0 (B[m[39;49mfree,(B[m[39;49m[1m   3991.0 (B[m[39;49mused.(B[m[39;49m[1m   2745.9 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m 784928 tomso     20   0 1132.4g 518552 123284 S 108.3   3.2 186:30.64 Discord  (B[m[39;49m[K
+(B[m 784870 tomso     20   0   32.5g 193684 116392 S  14.2   1.2  31:49.13 Discord  (B[m[39;49m[K
+(B[m    611 root      20   0   25.2g 126744  80588 S  11.6   0.8  33:45.01 Xorg     (B[m[39;49m[K
+(B[m   7989 tomso     20   0   14.1g   1.1g 311592 S   7.9   7.1 172:55.10 firefox  (B[m[39;49m[K
+(B[m2123712 tomso     20   0   56620  50740   8064 S   5.6   0.3   0:42.16 nvim     (B[m[39;49m[K
+(B[m   8276 tomso     20   0 3416940 438984 101244 S   3.3   2.7   8:53.78 Isolate+ (B[m[39;49m[K
+(B[m    659 tomso      9 -11   56884  33560   7900 S   3.0   0.2  18:58.37 pipewir+ (B[m[39;49m[K
+(B[m1642478 tomso     20   0 3321580 333716 114136 S   3.0   2.1   4:17.02 Isolate+ (B[m[39;49m[K
+(B[m    657 tomso      9 -11  200384  22560   9768 S   2.3   0.1  11:40.91 pipewire (B[m[39;49m[K
+(B[m   9385 tomso     20   0 1132.9g 389936  48908 S   2.3   2.4  25:23.64 code     (B[m[39;49m[K
+(B[m  98401 tomso     20   0 3518324 479240 111072 S   2.3   3.0  12:50.43 Isolate+ (B[m[39;49m[K
+(B[m     72 root      20   0       0      0      0 S   2.0   0.0   0:24.67 kcompac+ (B[m[39;49m[K
+(B[m1575370 tomso     20   0 3330768 377600 121452 S   1.7   2.3   3:33.06 Isolate+ (B[m[39;49m[K
+(B[m   8188 tomso     20   0   23.6g 635688  99928 S   1.3   3.9  23:29.00 WebExte+ (B[m[39;49m[K
+(B[m1768175 tomso     20   0 2761208 294608  90160 S   1.3   1.8   0:32.64 Isolate+ (B[m[39;49m[K
+(B[m1903391 tomso     20   0 2928024 261720 110252 S   1.3   1.6   2:35.63 Isolate+ (B[m[39;49m[K
+(B[m1944066 tomso     20   0 2940332 281632 109756 S   1.3   1.7   0:47.39 Isolate+ (B[m[39;49m[K[?1l>[25;1H
+[?12l[?25h[K
