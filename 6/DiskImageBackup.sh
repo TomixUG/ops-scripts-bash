@@ -47,7 +47,7 @@ fi
 # zkompresujeme image pomoci gzip
 display_info "Compressing the image..."
 if ! gzip "$filename"; then
-	display_error "There was an error while compressing the image"
+	display_error "There was an error while compressing the image (no permission?)"
 	exit 1
 fi
 

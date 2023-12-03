@@ -1,0 +1,12 @@
+# docker compose exec users bash
+
+version: '3'
+services:
+  users:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: no
+    volumes:
+      - ./:/files
+    command: tail -f /dev/null
