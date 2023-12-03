@@ -9,6 +9,9 @@ display_error() {
 	echo -e "\033[0;31mError:\033[0m $1"
 	echo "ERRROR: $1" >>log.txt
 }
+display_usage() {
+	echo -e "\033[0;31mUsage:\033[0m $1"
+}
 display_info() {
 	echo -e "\033[0;33mInfo:\033[0m $1"
 	echo "$1" >>log.txt
@@ -16,7 +19,7 @@ display_info() {
 
 # zkontroluj jestli byly dodany vsechny parametry
 if [ "$#" -ne 1 ] || ([ "$1" != "create" ] && [ "$1" != "remove" ]); then
-	display_error "Usage: $0 <create | remove>"
+	display_usage "$0 <create | remove>"
 	exit 1
 fi
 
