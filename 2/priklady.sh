@@ -47,6 +47,6 @@ while IFS= read -r line || [[ -n "$line" ]]; do
 done <"$input_file"
 
 # zkopiruj vystup z temp promenne do vstupniho souboru
-printf "$result_content" >>"$input_file"
+echo -e "$result_content" >>"$input_file"
 
 display_info "Results appended into '$input_file'"
